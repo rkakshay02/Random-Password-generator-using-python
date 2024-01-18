@@ -1,7 +1,5 @@
 ## Password Generator
 
-# Instructions
-
 The program will ask:
 ```
 How many letters would you like in your password?
