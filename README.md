@@ -36,6 +36,4 @@ x$d24g*f9
 ```
 And every time you generate a password, the positions of the symbols, numbers, and letters are different. 
 
-# Solution
-
-[https://replit.com/@appbrewery/password-generator-end](https://replit.com/@appbrewery/password-generator-end)
+ In my solution the output will be given for both the methods that is easy and hard.
